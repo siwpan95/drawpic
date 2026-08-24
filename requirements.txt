@@ -1,0 +1,4 @@
+# drawpic dependencies (auto-generated 2026-08-20)
+imageio
+numpy
+Pillow
